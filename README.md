@@ -47,3 +47,18 @@ In this module, I learned about cybercrimes like UPI fraud and how people get sc
 ---
 
 ## 📁 Repository Structure
+
+digital-literacy-project/
+│── report/
+│── task-1-presentation/
+│── task-2-portfolio/
+│── task-3-platforms/
+│── task-4-email-etiquette/
+│── task-5-cybercrime/
+│── README.md
+
+
+---
+
+## ✅ Conclusion
+This project helped me develop essential digital literacy skills, improve my online presence, and understand safe and responsible use of digital platforms. It has prepared me to confidently use technology in academic and professional environments.
